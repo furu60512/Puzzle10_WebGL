@@ -22,7 +22,7 @@ https://furu60512.github.io/Puzzle10_WebGL/<br>
 またブロックを3つ重ねると爆弾になり、上下左右のブロックをまとめて上昇させる事が出来ます。<br>
 爆弾を上手く活用し、多くのブロックを消す事を目指して下さい。<br>
 <br>
-![puzzle10](https://github.com/user-attachments/assets/2aa5ad70-92ba-4ce4-8a93-8779a0dbb608)<br>
+![puzzle10](https://github.com/user-attachments/assets/acd1068d-107a-410a-aa88-73dc92e522f6)<br>
 時折「お邪魔ブロック」が下から出現します。これは「10」を爆破させるとまとめて消せます。<br>
 <br>
 ブロックが上まで詰まってしまうとゲームオーバー。<br>
